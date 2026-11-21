@@ -1,7 +1,7 @@
 # Handoff — what I would look at next, and what I am uneasy about
 
 Written 2026-09-17, at the point where the explorer went public at
-<https://skfd.github.io/toronto-open-poi/>. Everything below is honest about whether
+<https://toronto-maps.github.io/toronto-open-poi/>. Everything below is honest about whether
 it is measured or suspected; where a number would settle it, the number is here or
 the command that gets it is.
 

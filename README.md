@@ -53,7 +53,7 @@ Decisions deliberately not made yet. Decide them on purpose.
 
 ## The explorer
 
-**<https://skfd.github.io/toronto-open-poi/>**
+**<https://toronto-maps.github.io/toronto-open-poi/>**
 
 ```
 python run.py fetch     # both feeds, DineSafe's frozen archive, two Overpass extracts
